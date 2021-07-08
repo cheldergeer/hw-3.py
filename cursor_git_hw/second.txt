@@ -1,4 +1,0 @@
-<<<<<<< Updated upstream
-=======
-Hello
->>>>>>> Stashed changes
